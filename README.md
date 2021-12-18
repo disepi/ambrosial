@@ -15,4 +15,4 @@ To build Ambrosial, you need to install multiple NuGET psckages after installing
 - Costura.Fody
 - Newtonsoft.JSON
 - Guna.UI2.WinForms
-That's basically you need!
+

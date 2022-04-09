@@ -1,4 +1,8 @@
-<h1 align="center">ambrosial</h1>
+<p>
+  <h1 align="center">ambrosial</h1>
+</p>  
+  
+
 <p>
   <img alt="GitHub license" src="https://img.shields.io/github/license/disepi/ambrosial">
   <img alt="GitHub total lines" src="https://img.shields.io/tokei/lines/github/disepi/ambrosial">

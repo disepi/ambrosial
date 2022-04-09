@@ -1,6 +1,5 @@
 <h1 align="center">
   ambrosial
-  <p>A Minecraft: Bedrock Edition mod loader</p>
 </h1>  
   
 

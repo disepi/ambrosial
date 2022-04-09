@@ -7,6 +7,7 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/disepi/ambrosial">
   <img alt="GitHub total downloads" src="https://img.shields.io/github/downloads/disepi/ambrosial/total">
 </p>
+
 > A launcher made for MC:BE mods
 > 
 Ambrosial is a launcher for Minecraft: Bedrock Edition (specifically Windows 10 Edition) modifications. The source code is here for you to check for any malicious code, or if you're just curious.

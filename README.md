@@ -1,7 +1,7 @@
-<p align="center">
-  <h1>ambrosial</h1>
-  <p>A mod loader for Minecraft: Bedrock Edition</p>
-</p>  
+<h1 align="center">
+  ambrosial
+  <p>A Minecraft: Bedrock Edition mod loader</p>
+</h1>  
   
 
 <p>

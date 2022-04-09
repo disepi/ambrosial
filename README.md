@@ -1,6 +1,4 @@
-<h1 align="center">
-  ambrosial
-</h1>  
+<h1 align="center">ambrosial</h1>  
   
 
 <p>

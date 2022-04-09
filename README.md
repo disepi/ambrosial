@@ -1,6 +1,7 @@
-# ambrosial
+<h1 align="center">ambrosial</h1>
 ![GitHub](https://img.shields.io/github/license/disepi/ambrosial)
 ![Lines of code](https://img.shields.io/tokei/lines/github/disepi/ambrosial)
+![GitHub last commit](https://img.shields.io/github/last-commit/disepi/ambrosial)
 ![GitHub last commit](https://img.shields.io/github/last-commit/disepi/ambrosial)
 > A launcher made for MC:BE mods
 > 

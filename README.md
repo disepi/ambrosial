@@ -27,7 +27,7 @@ If you have any problem running Ambrosial or any included modification, try thes
 #### Installing .NET Framework Redistributable
 - Ambrosial requires .NET Framework in order to open. The download for it can be found [here](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net472-web-installer).
 
-`If you require any other help, please open an issue.`
+If you require any other help, please open an issue.
 
 ## Building from source
 ### Building the executable
@@ -38,7 +38,7 @@ If you have any problem running Ambrosial or any included modification, try thes
   - [x] Costura.Fody
   - [x] Newtonsoft.JSON
   - [x] Guna.UI2.WinForms
-- Use the Build Solution option in Visual Studio to compile the executable. It is advised to compile on Release mode.
+- Use the `Build Solution` option in Visual Studio to compile the executable. It is advised to compile on Release mode.
 
 ### Creating client collection for serialization/deserialization
 - The developer form has tools to obtain the current encrypted collection string, decrypt string to obtain the raw JSON and encrypt string to encrypt raw JSON. If you know what you are doing, it is simple to edit the collection string. If you wish to change the web endpoint which it collects the string from, look at the `requestEnd` string property in `setupClients()` located inside the `\Ambrosial\AmbrosialC.cs` file.

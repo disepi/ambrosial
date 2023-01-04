@@ -27,7 +27,7 @@ If you have any problem running Ambrosial or any included modification, try thes
 #### Installing .NET Framework Redistributable
 - Ambrosial requires .NET Framework in order to open. The download for it can be found [here](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net472-web-installer).
 
-`If you require any other help, please open an issue.`
+If you require any other help, please open an **issue**.
 
 ## Building from source
 ### Building the executable

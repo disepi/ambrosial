@@ -41,4 +41,4 @@ If you have any problem running Ambrosial or any included modification, try thes
 - Use the Build Solution option in Visual Studio to compile the executable. It is advised to compile on Release mode.
 
 ### Creating client collection for serialization/deserialization
-- The developer form has tools to obtain the current encrypted collection string, decrypt string to obtain the raw JSON and encrypt string to encrypt raw JSON. If you know what you are doing, it is simple to edit the collection string. If you wish to change the web endpoint which it collects the string from, look at the `requestEnd` string property in `setupClients()` located inside the `.\Ambrosial\AmbrosialC.cs` file.
+- The developer form has tools to obtain the current encrypted collection string, decrypt string to obtain the raw JSON and encrypt string to encrypt raw JSON. If you know what you are doing, it is simple to edit the collection string. If you wish to change the web endpoint which it collects the string from, look at the `requestEnd` string property in `setupClients()` located inside the `Ambrosial\AmbrosialC.cs` file.
